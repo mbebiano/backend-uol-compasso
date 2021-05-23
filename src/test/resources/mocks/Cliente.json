@@ -1,0 +1,12 @@
+{
+  "id": 1,
+  "nomeCompleto": "Fake Name Data",
+  "sexo": "FEMININO",
+  "dataNascimento": "2000-01-01",
+  "idade": 21,
+  "cidade": {
+    "id": 1,
+    "nome": "Unai",
+    "estado": "MG"
+  }
+}
